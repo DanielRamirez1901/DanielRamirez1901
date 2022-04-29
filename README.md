@@ -36,7 +36,7 @@
 <a  href="https://github.com/SP-XD">
  
 ![Dani GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRamirez1901&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRamirez1901)](https://github.com/DanielRamirez1901/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRamirez1901&theme=radical)](https://github.com/DanielRamirez1901/github-readme-stats)
 
 
 </a>
