@@ -44,5 +44,5 @@
 
 <div align="center" width="50">
   <br>
- <img src="https://github.com/DanielRamirez1901/DanielRamirez1901/blob/main/images/intro1.gif?raw=true" href="https://github.com/DanielRamirez1901" width="450"/> <br>
+ <img src="https://github.com/DanielRamirez1901/DanielRamirez1901/blob/main/images/intro1.gif?raw=true" href="https://github.com/DanielRamirez1901" width="400"/> <br>
 ꧁∙∙∙∙∙·▫▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫ₒₒ▫꧁GOODBYE꧂▫ₒₒ▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫▫·∙∙∙∙∙꧂<br>
