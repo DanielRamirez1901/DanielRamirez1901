@@ -5,7 +5,7 @@
 ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃<br>
 
   
-<p><strong>7th semester telematics engineering student
+<p><strong>9th semester telematics engineering student
 <br>and in my free time, member of the 
 <br>i2t of the ICESI university<br>
 ･ﾟ✨ *:･ﾟ✨ *:･ﾟ✨ ･ﾟ✨ *:･ﾟ✨ *:･ﾟ✨<br>
