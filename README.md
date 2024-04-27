@@ -1,21 +1,15 @@
 <div align="center" width="50">
- ┎┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨♡୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┒
+ ┎┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨✨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┒
   <br>
  <img src="https://github.com/DanielRamirez1901/DanielRamirez1901/blob/main/images/welcome.gif?raw=true" href="https://github.com/DanielRamirez1901" width="450"/> <br>
 ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃<br>
 
   
-<p><strong>9th semester telematics engineering student
-<br>and in my free time, member of the 
-<br>i2t of the ICESI university<br>
+<p><strong>9th semester telematics engineering student<br>
 ･ﾟ✨ *:･ﾟ✨ *:･ﾟ✨ ･ﾟ✨ *:･ﾟ✨ *:･ﾟ✨<br>
 *:･ﾟ.✨:･ﾟ.✨ *:･. *:･ﾟ.✨:･ﾟ.✨ *:･.<br>
-┊　　┊　　┊　　┊ <br>
-┊　　┊　　┊　　🌺 <br>
-┊　　┊　　🌟 <br>
-┊　　🌺 <br>
-🌟<br>
-  
+
+
  </div>
 
 <hr></hr>
