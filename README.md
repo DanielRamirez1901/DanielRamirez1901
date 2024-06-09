@@ -6,8 +6,6 @@
 
   
 <p><strong>9th semester telematics engineering student<br>
-･ﾟ✨ *:･ﾟ✨ *:･ﾟ✨ ･ﾟ✨ *:･ﾟ✨ *:･ﾟ✨<br>
-*:･ﾟ.✨:･ﾟ.✨ *:･. *:･ﾟ.✨:･ﾟ.✨ *:･.<br>
 
 
  </div>
